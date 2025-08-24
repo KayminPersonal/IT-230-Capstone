@@ -1,20 +1,25 @@
 # IT-230-Capstone
 
 Briefly summarize the requirements and goals of the application you developed. What user needs was this application designed to address?
+
   The goal of the aplication was to present an easy and consice way for students to register and check if they are qualified for the courses in question in real time. The requirements of which are to ensure each class uses 3 credit hours and the student may not register for more than 9 credit hours and the classes they may register for may not be applied for twice. The user needs that were adressed were mainly the visual display of courses and credit hours acculumlated in a clear and concise manner as well as instant confirmation and error messages based on the selection.
 
 
 What did you do particularly well in developing this application?
+
   I believe what I did best while developing the code was the idea of the textBlock interface and the ability to think on my feet it was a struggle while developing to actually figure out how to make the program talk to each other as well as how to ensure the results displayed were correct within the end goal however I think I did a good job in understanding my code in the end as well as ensuring clean and well labeled format of a professional standard.
 
 
 Compare and contrast the Console and WPF application designs. What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+
   The console was far more basic and simply text based and not allowing for much in the term of cleanliness while WPF provided a lot which was of dire importance to the design and sleekness of the program such as the dropBox and the textBlock which present clean and instant selection of courses and verification of their selection and most importantly the comboBox where the selected courses would be sent to. The UI in my idea was maintained for instant information to be relayed to the user to provide a quick and easy registering process, and in my opinion my design was very successful however, If I had my way and had more time I would add a bit more color and design to the UI itself but for a prototype it will do nicely.
 
 
 How did you approach the process of debugging and coding your application? What techniques or strategies did you use? How could you use those techniques or strategies in the future?
+
   My strategy while coding was simply to save and test each time to check for not only build errors but console errors to ensure the code was first clean before looking into the product of the code to ensure the result I wanted was what I got. I believe this took a lot of time and resulted in a lot of trial and error at first, of which I would have done differently and tested code chunks rather than each code addition but I believe I can get used to these chunk testing while ensuring the chunk all followed the same program idea as well as ensuring I monitored the lines use case within debugging.
 
 
 Where did you have to be innovative to overcome a challenge in the full application development process?
+
   I had to be innovative while creating the code required for the credit hour display and check process of which I have never done before so it was a lot to get used to but I understood quickly what it asked of me and set it up as well as mixing it with the establishment of the textBlock which was a whole other beast to understand at first however I had a lot of fun making it.
